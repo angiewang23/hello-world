@@ -8,3 +8,5 @@ print("Four is", sqrt(4*4)/(4/4))
 print("Five is", sqrt(4)+sqrt(4)+(4/4))
 print("Six is", 4+(4+4)/4) 
 print("Seven is", 4+4-(4/4))
+
+print("learning git commands")
